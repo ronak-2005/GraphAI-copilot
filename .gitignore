@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+ml/venv/
+backend/venv/
+
+mml/artifacts/
+ml/graph_insights/
+ml/graph_output/
+ml/model_results/
+ml/moretoo/
+ml/ready_data/
+ml/trained_models/
+# ML GENERATED (DO NOT TRACK)
+############################
+
+############################
+# ENV & SECRETS
+############################
+.env
+backend/.env
+
+############################
+# PYTHON
+############################
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+############################
+# NODE
+############################
+node_modules/
+
+############################
+# VENV
+############################
+venv/
+ml/venv/
+backend/.env
